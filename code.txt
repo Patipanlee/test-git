@@ -1,0 +1,10 @@
+git config --global user.email "Patipan.lee1997@gmail.com"
+git config --global user.name "Patipanlee"
+git config -l
+
+make file humble.txt
+
+git init
+git status
+git add hunble.txt
+git commit -m "My frist git"

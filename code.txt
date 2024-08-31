@@ -9,6 +9,7 @@ git status
 git add hunble.txt
 git commit -m "My frist git"
 
+<<<<<<< HEAD
 create repository on github
 git remote add origin "https://github.com/Patipanlee/test-git.git"
 git push origin master
@@ -16,3 +17,5 @@ git push origin master
 git branch [name]
 git branch
 git checkout test-branch
+=======
+>>>>>>> branch2
